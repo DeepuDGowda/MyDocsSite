@@ -3,7 +3,7 @@
 ```markdown
 ---
 layout: default
-title: About
+title: Aboutthe new
 ---
 
 # About This Site
